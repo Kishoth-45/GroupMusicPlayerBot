@@ -194,7 +194,7 @@ async def play(_, message: Message):
                             url=f"{url}"),
                         InlineKeyboardButton(
                             text="𝐀𝐍𝐉𝐄𝐋🍃",
-                            url=f"https://t.me/Godofanjalsupport")
+                            url=f"https://t.me/Godofanjelsupport")
 
                     ]
                 ]
@@ -262,7 +262,7 @@ async def play(_, message: Message):
                             url=f"{url}"),
                         InlineKeyboardButton(
                             text="𝐀𝐍𝐉𝐄𝐋🍃",
-                            url=f"https://t.me/Godofanjalsupport")
+                            url=f"https://t.me/Godofanjelsupport")
 
                     ]
                 ]
