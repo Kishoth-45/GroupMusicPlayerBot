@@ -153,7 +153,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Channel 🔊",
-                        url="https://t.me/Anjalupdates")
+                        url="https://t.me/Anjelupdates")
                    
                 ]
             ]
